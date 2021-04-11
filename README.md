@@ -1,4 +1,4 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=3-0&section=header&text=Kihyun Lee&fontSize=90&animation=twinkling&fontAlignY=40"/></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Kihyun Lee&fontSize=90&animation=twinkling&fontAlignY=40"/></p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=daveg7lee&theme=dark" />
