@@ -45,6 +45,5 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=daveg7lee&theme=dark" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daveg7lee&layout=compact"/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=daveg7lee"/>
 </div>
 
