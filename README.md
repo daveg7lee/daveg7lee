@@ -1,4 +1,4 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=KihyunLee&fontSize=90&animation=twinkling"/></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=Kihyun Lee&fontSize=90&animation=twinkling"/></p>
 
 <h3 align="center">⚒Tech Stack⚒</h3>
 
