@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp  
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp  
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp  
-  <img src="https://img.shields.io/badge/Tailwind CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white"/></a>&nbsp  
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=Tailwind%20CSS&logoColor=white"/></a>&nbsp  
 </p>
 
 <p align="center">Techs that I've used at least once</p>
