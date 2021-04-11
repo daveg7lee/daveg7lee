@@ -43,6 +43,6 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daveg7lee)](https://github.com/anuraghazra/github-readme-stats"/>
+  <img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)"/>
 </div>
 
