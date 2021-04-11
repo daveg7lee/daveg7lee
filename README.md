@@ -42,11 +42,9 @@
   <a href="mailto:daveg7lee@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
 </p>
 
-<div align="center">
+<div align="center" margin="5px">
   <img src="https://github-readme-stats.vercel.app/api?username=daveg7lee&theme=dark" />
 </div>
-
-<div style="margin-bottom: 5px"/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daveg7lee"/>
