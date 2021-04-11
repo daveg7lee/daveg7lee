@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/gh-pages-181717?style=flat-square&logo=Github&logoColor=white"/></a>&nbsp
 </p>
 
 <p align="center">Techs that I've used at least once</p>
