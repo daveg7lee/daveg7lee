@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=Expo&logoColor=white"/></a>&nbsp  
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"/></a>&nbsp  
   <br>
-  <img src="https://img.shields.io/badge/Apollo-311C87?style=flat-square&logo=Apollo GraphQL&logoColor=white"/></a>&nbsp  
+  <img src="https://img.shields.io/badge/Apollo-311C87?style=flat-square&logo=Apollo%20GraphQL&logoColor=white"/></a>&nbsp  
 </p>
 
 <p align="center">Techs that I've used at least once</p>
