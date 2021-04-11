@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Apollo-311C87?style=flat-square&logo=Apollo%20GraphQL&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=Prisma&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=Amazon%20S3&logoColor=white"/></a>&nbsp
 </p>
 
 <p align="center">Techs that I've used at least once</p>
