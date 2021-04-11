@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp  
   <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=Tailwind%20CSS&logoColor=white"/></a>&nbsp  
   <br>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Apollo-311C87?style=flat-square&logo=Apollo%20GraphQL&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=Prisma&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp
