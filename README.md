@@ -43,7 +43,7 @@
 </p>
 
 <div align="center" style="margin-bottom : 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=daveg7lee&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=daveg7lee&theme=dark" style="margin-right: 5px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daveg7lee&layout=compact"/>
 </div>
 
