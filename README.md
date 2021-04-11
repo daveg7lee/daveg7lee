@@ -43,12 +43,9 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daveg7lee&theme=dark" />
-</div>
-
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daveg7lee&layout=compact"/>
 </div>
 
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=daveg7lee&theme=dark" />
+</div>
