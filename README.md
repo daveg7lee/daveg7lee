@@ -43,6 +43,6 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daveg7lee" />
+  <img src="https://github-readme-stats.vercel.app/api?username=daveg7lee&theme=dark" />
 </div>
 
