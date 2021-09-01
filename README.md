@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/ghpages-181717?style=flat-square&logo=Github&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/ghpages-512BD4?style=flat-square&logo=.NET&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=white"/></a>&nbsp
 </p>
 
 <h3 align="center">📞Contact Me📞</h3>
