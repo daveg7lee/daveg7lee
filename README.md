@@ -28,14 +28,12 @@
   <img src="https://img.shields.io/badge/Apollo-311C87?style=flat-square&logo=Apollo%20GraphQL&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=Prisma&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=Amazon%20S3&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/ghpages-181717?style=flat-square&logo=Github&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=white"/></a>&nbsp
 </p>
 
 <h3 align="center">📞Contact Me📞</h3>
