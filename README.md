@@ -36,14 +36,4 @@
   <img src="https://img.shields.io/badge/ghpages-181717?style=flat-square&logo=Github&logoColor=white"/></a>&nbsp
 </p>
 
-<h3 align="center">📞Contact Me📞</h3>
-
-<p align="center">
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=daveg7lee)](https://velog.io/@daveg7lee) 
-  <a href="mailto:daveg7lee@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
-</p>
-
-<h3 align="center">Visitors</h3>
-<div align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdaveg7lee&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/>
-</div>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=daveg7lee)](https://velog.io/@kihyun)
