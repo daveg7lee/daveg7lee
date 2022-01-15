@@ -39,7 +39,7 @@
 <h3 align="center">📞Contact Me📞</h3>
 
 <p align="center">
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=eungyeole)](https://velog.io/@daveg7lee) 
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=daveg7lee)](https://velog.io/@daveg7lee) 
   <a href="mailto:daveg7lee@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
 </p>
 
