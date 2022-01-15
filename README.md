@@ -36,4 +36,4 @@
   <img src="https://img.shields.io/badge/ghpages-181717?style=flat-square&logo=Github&logoColor=white"/></a>&nbsp
 </p>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=daveg7lee)](https://velog.io/@kihyun)
+<div align="center">[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=daveg7lee)](https://velog.io/@kihyun)</div>
