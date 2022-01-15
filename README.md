@@ -37,4 +37,5 @@
 </p>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=kihyun)](https://velog.io/@kihyun)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kihyun)](https://github.com/kihyun/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kihyun&color=dark&tag=TIL)](https://velog-readme-stats.vercel.app/api/redirect?name=kihyun&tag=TIL)
+
