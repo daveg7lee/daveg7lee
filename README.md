@@ -36,8 +36,8 @@
   <img src="https://img.shields.io/badge/ghpages-181717?style=flat-square&logo=Github&logoColor=white"/></a>&nbsp
 </p>
 
-<div align="center" style="margin-bottom: 20px;">
-<h3>✍️ Tech Blog</h3>
+<div align="center" style="margin: 20px;">
+  <h3>✍️ Tech Blog</h3>
   <a href="https://medium.com/@daveg7lee">
       <img src="https://img.shields.io/badge/Medium-000000?style=for-the-banner&logo=Medium&logoColor=white"/></a>&nbsp
   </a>
