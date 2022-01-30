@@ -40,6 +40,9 @@
   <a href="https://velog.io/@kihyun">
     <img src="https://velog-readme-stats.vercel.app/api/badge?name=kihyun" />
   </a>
+  <a href="https://medium.com/@daveg7lee">
+      <img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=Medium&logoColor=white"/></a>&nbsp
+  </a>
 </div>
 <div align="center">
   <a href="https://velog-readme-stats.vercel.app/api/redirect?name=kihyun&tag=TIL">
