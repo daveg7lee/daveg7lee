@@ -4,7 +4,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=daveg7lee&theme=dark" />
 </div>
 
-<h3 align="center">⚒Tech Stack⚒</h3>
+<h3 align="center">⚒ Tech Stack</h3>
 
 <p align="center">Tech that I can use skillfully</p>
 
@@ -36,14 +36,16 @@
   <img src="https://img.shields.io/badge/ghpages-181717?style=flat-square&logo=Github&logoColor=white"/></a>&nbsp
 </p>
 
-<div align="center">
-  <a href="https://velog.io/@kihyun">
-    <img src="https://velog-readme-stats.vercel.app/api/badge?name=kihyun" />
-  </a>
+<div align="center" style="margin-bottom: 20px;">
+<h3>✍️ Tech Blog</h3>
   <a href="https://medium.com/@daveg7lee">
-      <img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=Medium&logoColor=white"/></a>&nbsp
+      <img src="https://img.shields.io/badge/Medium-000000?style=for-the-banner&logo=Medium&logoColor=white"/></a>&nbsp
+  </a>
+  <a href="https://velog.io/@kihyun">
+      <img src="https://img.shields.io/badge/Velog-22C997?style=for-the-banner&logo=Vimeo&logoColor=white"/></a>&nbsp
   </a>
 </div>
+
 <div align="center">
   <a href="https://velog-readme-stats.vercel.app/api/redirect?name=kihyun&tag=TIL">
     <img src="https://velog-readme-stats.vercel.app/api?name=kihyun&color=dark&tag=TIL"/>
