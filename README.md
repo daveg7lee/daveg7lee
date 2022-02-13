@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=Expo&logoColor=white"/></a>&nbsp  
   <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp  
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte%FF3E00&logoColor=white"/></a>&nbsp  
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white"/></a>&nbsp  
 </p>
 
 <h3 align="center">✍️ Tech Blog</h3>
