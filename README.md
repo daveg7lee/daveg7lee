@@ -48,9 +48,6 @@
 <h3 align="center">✍️ Tech Blog</h3>
 
 <p align="center">
-  <a href="https://medium.com/@daveg7lee">
-      <img src="https://img.shields.io/badge/Medium-000000?style=for-the-banner&logo=Medium&logoColor=white"/></a>&nbsp
-  </a>
   <a href="https://velog.io/@kihyun">
       <img src="https://img.shields.io/badge/Velog-22C997?style=for-the-banner&logo=Vimeo&logoColor=white"/></a>&nbsp
   </a>
