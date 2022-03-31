@@ -43,8 +43,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=daveg7lee&theme=dark&include_all_commits=true" />
 </div>
 
-<h3 align="center">⚒ Tech Stack</h3>
-
 <h3 align="center">✍️ Tech Blog</h3>
 
 <p align="center">
