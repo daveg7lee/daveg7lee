@@ -43,18 +43,3 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=daveg7lee&theme=dark&include_all_commits=true" />
 </div>
-
-<h3 align="center">✍️ Tech Blog</h3>
-
-<p align="center">
-  <a href="https://velog.io/@kihyun">
-      <img src="https://img.shields.io/badge/Velog-22C997?style=for-the-banner&logo=Vimeo&logoColor=white"/></a>&nbsp
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://velog-readme-stats.vercel.app/api/redirect?name=kihyun&tag=TIL">
-    <img src="https://velog-readme-stats.vercel.app/api?name=kihyun&color=dark&tag=TIL"/>
-  </a>
-</p>
-
