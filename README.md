@@ -1,5 +1,3 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Kihyun Lee&fontSize=90&animation=twinkling&fontAlignY=40"/></div>
-
 <h3 align="center">🖥  Backend Tech Stack  🖥</h3>
 
 <div align="center">
