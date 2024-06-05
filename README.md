@@ -44,10 +44,10 @@
 
 
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/daveg7lee?pet-id=586016221890431433"
-    width="600"
-    height="250"
-  />
+<img
+  src="https://render.gitanimals.org/farms/daveg7lee"
+  width="600"
+  height="300"
+/>
 </a>
   
