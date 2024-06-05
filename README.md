@@ -41,3 +41,13 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=daveg7lee&theme=dark&include_all_commits=true" />
 </div>
+
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/daveg7lee?pet-id=586016221890431433"
+    width="600"
+    height="250"
+  />
+</a>
+  
